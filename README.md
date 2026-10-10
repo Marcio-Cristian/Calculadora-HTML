@@ -1,2 +1,2 @@
-# Calculadora-HTML
+# Calculadora-HTML-Com-Js-Interno
 Fiz essa calculadora pois estou fazendo faculdade de ciber-segurança e estou aprendendo sobre desenvolvimento WEB 
